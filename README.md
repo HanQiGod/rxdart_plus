@@ -21,6 +21,8 @@
 RxDart Plus is an implementation of the popular ReactiveX api for asynchronous
 programming, leveraging the native Dart Streams api.
 
+# 技术支持邮箱(1539841933@qq.com)。
+
 ## Packages
 
 | Package                     | Pub                                                                                         |
