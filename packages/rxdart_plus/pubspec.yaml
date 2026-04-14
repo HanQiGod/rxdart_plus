@@ -4,7 +4,6 @@ description: Flutter 升级 3.35.7 之后，对 rxdart 插件的升级（After F
 homepage: https://github.com/HanQiGod/rxdart_plus
 
 topics:
-  - rxdart_plus
   - rxdart
   - reactive-programming
   - streams
